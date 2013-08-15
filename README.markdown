@@ -1,14 +1,18 @@
 Lisp Examples
 =============
 
-This repository is a place for me to put little demo Lisp projects
-that don't belong anywhere else. It's for illustrative pieces of code
+## About
+
+This repository is a place for me to put those tiny Lisp demos that
+don't belong anywhere else. It's for illustrative snippets of code
 that are too complicated (as in, spread across too many files) for
-gists but too simple to have repositories of their own.
+Gists but too simple to have repositories of their own.
 
-Currently, the following projects live here:
+## Projects Index
 
-## [Project Modules](https://github.com/joekarma/lisp-examples/tree/master/module-loading-demo)
+The following projects live here:
+
+### [Lisp Project Modules](https://github.com/joekarma/lisp-examples/tree/master/module-loading-demo)
    
 This project is my attempt at getting an automated loading system
 working for modules of code in a project. An example use case is for
